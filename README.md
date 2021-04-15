@@ -4,7 +4,7 @@ Sou estudante de **Engenharia da Computação** na **Universidade Católica de P
 
 :computer: Tecnologias principais: `java` `spring`  `javascript` `html` `css`
 
-:floppy_disk: banco de dados: `mysql`, `maridb`, `sql server`
+:floppy_disk: banco de dados: `mysql` `maridb` `sql server`
 
 :bulb: Também tenho conhecimentos em: `python` `c`
 
