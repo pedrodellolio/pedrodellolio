@@ -1,16 +1,13 @@
 ### Oi, meu nome é Pedro 👋
 ---
-Sou estudante de **Engenharia da Computação** na **Universidade Católica de Petrópolis** e busco me tornar um **Desenvolvedor Full Stack**. Sou apaixonado por programação e diariamente busco solucionar problemas através de códigos.
+Sou **Desenvolvedor Full Stack** e estudante de **Engenharia da Computação** na **Universidade Católica de Petrópolis**.
 
-:computer: Tecnologias principais: `java` `spring`  `javascript` `html` `css`
+:computer: Tecnologias principais:
+- Back-end: `c#` `asp.net mvc` `asp.net core`
+- Front-end: `javascript` `html` `css` `bootstrap`
+- Banco de dados: `sql server` `oracle`
 
-:floppy_disk: Banco de dados: `mysql` `maridb` `sql server`
-
-:bulb: Também tenho conhecimentos em: `python` `c`
-
-:triangular_ruler: Utilitários: `figma`
-
-:pencil: Atualmente estou estudando: `reactjs` `postgresql`
+:bulb: Também tenho conhecimentos em: `java` `python` `c`
 
 :mailbox: Sinta-se a vontade para entrar em contato!
 
