@@ -1,10 +1,6 @@
-### Oi, meu nome é Pedro 👋
----
-Sou **Desenvolvedor Full Stack** e estudante de **Engenharia da Computação** na **Universidade Católica de Petrópolis**.
-
-:computer: Tecnologias principais:
-- Back-end: `c#` `asp.net mvc` `asp.net core`
-- Front-end: `javascript` `html` `css` `bootstrap`
+:computer: Conhecimentos:
+- Back-end: `c#` `.net framework` `.net core`
+- Front-end: `javascript` `react` `vue`
 - Banco de dados: `sql server` `oracle`
 
 :bulb: Também tenho conhecimentos em: `java` `python` `c`
