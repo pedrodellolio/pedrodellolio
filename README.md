@@ -3,4 +3,4 @@
 
 📫 Fique à vontade para me chamar!
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/Linkedin-a64dff?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrodellolio/)
