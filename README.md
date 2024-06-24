@@ -1,11 +1,6 @@
-:computer: Conhecimentos:
-- Back-end: `c#` `.net framework` `.net core`
-- Front-end: `javascript` `react` `vue`
-- Banco de dados: `sql server` `oracle`
+## Sobre mim 😃
+**Desenvolvedor de software** e quase formado em **Engenharia da Computação**. Apaixonado por tecnologia, entusiasta do universo frontend, e este espaço é o reflexo da mente de alguém que ama tirar ideias do papel.
 
-:bulb: Também tenho conhecimentos em: `java` `python` `c`
+📫 Fique à vontade para me chamar!
 
-:mailbox: Sinta-se a vontade para entrar em contato!
-
-[![Linkedin](https://img.shields.io/badge/Linkedin-a64dff?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrodellolio/)
-[![](https://img.shields.io/badge/Gmail-a64dff?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ph.dellolio@gmail.com)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
